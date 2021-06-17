@@ -10,6 +10,6 @@ A Junior Software Engineer who loves to create and tinker with technology. Below
 
 ### My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestpatwalker&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestpatwalker&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestpatwalker&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestpatwalker&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Forrest Walker
 
+A Software Engineer who loves to create and tinker with technology. Below you will find a list of technologies I have experience with it. I am always looking for opportunites to build with others, so if you are looking for a collaborator or just want to have a discussion please reach out.
 <!--
 **forrestpatwalker/forrestpatwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

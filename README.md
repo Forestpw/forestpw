@@ -1,4 +1,4 @@
-### Hi there 👋, I am Forrest
+### Hi there 👋 I am Forrest
 
 I'm a Software Engineer who loves to create and tinker with technology. Below you will find a list of technologies I have experience with. I am always looking for opportunites to build with others, so if you are looking for a collaborator or just want to have a discussion please reach out. Below are list of the languages I am most comfortable programming in from ordered left to right based on recent activity.
 

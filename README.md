@@ -1,9 +1,15 @@
-### Hi there 👋 I am Forrest
+# Hello, I'm Forrest Walker 👋
 
-I'm a Software Engineer who loves to create and tinker with technology. Below you will find a list of technologies I have experience with. I am always looking for opportunites to build with others, so if you are looking for a collaborator or just want to have a discussion please reach out. Below are list of the languages I am most comfortable programming in.
+I'm a developer with a love for crafting engaging web experiences and robust backend systems. When I'm not coding, you can find me lost in fantasy and sci-fi books, enjoying anime, or spending time with my beloved cats.
 
----
+## My Tech Skills 🛠️
+- Proficient in Rust, PHP, Python, Django, CodeIgniter, HTML, CSS, JavaScript, and JQuery.
+- Skilled in backend development.
+- Committed to clean maintainable code with automated testing.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="Cplusplus Logo" width="50" height="50"/>
+## Personal Pursuits 🚀
+- Enhancing web platforms focusing on accessibility and functionality.
+- Designing and maintaining intricate backend systems and data integrations.
+- Exploring the latest in web technologies and system architecture.
 
----
+I'm always open to discussing tech, books, anime, or anything in between. Feel free to reach out for tech talks, collaborations, or just to share your favorite fantasy novel 🏳️‍🌈

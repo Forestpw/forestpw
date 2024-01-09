@@ -5,7 +5,7 @@ I'm a developer with a love for crafting engaging web experiences and robust bac
 ## My Tech Skills 🛠️
 ### Languages: 
 PHP, Rust, Python, Java, JavaScript, CSS, HTML, C, C++, SQL
-### Frameworkds & Platforms
+### Frameworks & Platforms
 React, Django, CodeIgniter, JQuery, AWS(S3, Lambda, DynamoDB)
 ### Tools, Systems & Databases
 Git, GitHub, GitHub Actions, Bitbucket, Jira, Linux, Microsoft SQL Server, SQLite

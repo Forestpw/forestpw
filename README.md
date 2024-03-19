@@ -6,7 +6,7 @@ I'm a developer with a love for crafting engaging web experiences and robust bac
 ### Languages: 
 PHP, Rust, Python, Java, JavaScript, CSS, HTML, C, C++, SQL
 ### Frameworks & Platforms
-React, Django, CodeIgniter, JQuery, AWS(S3, Lambda, DynamoDB)
+React, Django, Laravel, JQuery, AWS(S3, Lambda, DynamoDB)
 ### Tools, Systems & Databases
 Git, GitHub, GitHub Actions, Bitbucket, Jira, Linux, Microsoft SQL Server, SQLite
 
